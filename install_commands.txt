@@ -2,3 +2,4 @@ pip install djangorestframework
 pip install django-dotenv
 pip install psycopg
  psycopg2
+ ==========================creating super user===============================
